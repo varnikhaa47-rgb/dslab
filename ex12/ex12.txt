@@ -1,0 +1,26 @@
+Enter how many students: 2
+
+Enter name and roll number for student 0: Arun
+101
+
+Enter name and roll number for student 1: Ravi
+102
+
+Enter marks of student 0 for subject 0: 80
+
+Enter marks of student 0 for subject 1: 90
+
+Enter marks of student 0 for subject 2: 85
+
+Enter marks of student 1 for subject 0: 95
+
+Enter marks of student 1 for subject 1: 75
+
+Enter marks of student 1 for subject 2: 88
+
+Total marks obtained by student Arun are 255
+Total marks obtained by student Ravi are 258
+Student Ravi got maximum marks = 95 in Subject: 0
+Student Arun got maximum marks = 90 in Subject: 1
+Student Ravi got maximum marks = 88 in Subject: 2
+Ravi obtained the total highest marks.
